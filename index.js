@@ -1,9 +1,10 @@
+const filesystem = require('./node_modules/graceful-fs/graceful-fs.js')
 const inquirer = require('inquirer');
 const {Circle, Square, Triangle} = require('./lib/shapes.js');
-const filesystem = require('./node_modules/graceful-fs/graceful-fs.js')
+
 // Defining a Svg class for the three methods we will be using for rendering
 class Svg {
-    constructor(){
+    constructor() {
         this.textElement = ''
         this.shapeElement = ''
     }
@@ -114,6 +115,7 @@ async function init() {
 
     //Print shape to the console log
     console.log("Displaying shape:\n\n" + svgString);
+    //document.getElementById("svg_image").innerHTML = svgString;
 
     console.log("Shape generation complete!");
 	console.log("Writing shape to file...");
