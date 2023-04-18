@@ -2,17 +2,17 @@
 
   "name": "svg-logo-generator",
   "version": "1.0.0",
-  "description": "Generate an SVG logo with your choice of shape (circle, square, or triangle), shape color, text (limit of 3 characters), and text color. Shape and text colors can be chosen using color keywords or hexadecimal numbers.",
+  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "script": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TuddaT0224/SVG-Logo-Generator.git"
+    "url": "git+https://tuddat0224.github.io/SVG-Logo-Generator/"
   },
   "author": "Trezz Tillman",
   "license": "ISC",
@@ -24,9 +24,9 @@
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
   },
-   "scripts": {
-     "test": "jest"
-  }
+    "scripts": {
+      "test": "jest"
+    }
 }
   
   

@@ -10,7 +10,7 @@ Generate an SVG logo with your choice of shape (circle, square, or triangle), sh
 
 Watch this video on how to create a logo with SVG file [video]()
 
-GitHub Url:
+GitHub Url:https://github.com/TuddaT0224/SVG-Logo-Generator#readme
 WebBrowser Url:https://tuddat0224.github.io/SVG-Logo-Generator/
 
 ## Table of Contents
