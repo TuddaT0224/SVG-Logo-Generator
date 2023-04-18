@@ -8,11 +8,11 @@ Generate an SVG logo with your choice of shape (circle, square, or triangle), sh
 [![JestBadge]
 [![License: MIT]() ]
 
-Watch this video on how to create a logo with SVG file [video](<iframe src="https://drive.google.com/file/d/10pLUlGms6PWGVSLMKZo3uDJ0t0fT_CHz/preview" width="640" height="480"></iframe>)
+Watch this video on how to create a logo with SVG file [video](https://drive.google.com/file/d/10pLUlGms6PWGVSLMKZo3uDJ0t0fT_CHz/view)
 
 GitHub Url:https://github.com/TuddaT0224/SVG-Logo-Generator#readme
 WebBrowser Url:https://tuddat0224.github.io/SVG-Logo-Generator/
-
+[![image](image.png)]
 ## Table of Contents
 
 * [Installation](#installation)
